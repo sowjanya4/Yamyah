@@ -1,6 +1,8 @@
 # yamyah
-android app for store management
-login page takes username and password and validate the credentials
+Android app for store management.<br>
+login page takes username and password and validate the credentials<br>
 Default login details are
-    username:user
-    password:pass
+<ul>
+<li>username:<b>user</b></li>
+<li>   password:<b>pass</b></li>
+</ul>
